@@ -1,6 +1,6 @@
 ![logo](https://github.com/Saurabh-k98/Saurabh-k98/blob/main/logo.PNG?raw=true)
 <h1 align="center">Hello, I am Saurabh Kumar</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A Passionate Programmer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saurabh-k98&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-k98" /> </p>
 
