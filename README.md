@@ -1,5 +1,7 @@
-<h1 align="center" style="color:#007acc;">Hello, I'm Saurabh Kumar</h1>
-<h3 align="center" style="color:#007acc;">Python Developer | Backend Engineer | AI/ML & DSA Practitioner</h3>
+<p align="center">
+  <strong>👋 Hello, I'm <span style="color:#007acc;">Saurabh Kumar</span></strong><br>
+  Python Developer | Backend Engineer | AI/ML & DSA Practitioner
+</p>
 
 ## 👨‍💻 About Me
 
@@ -12,34 +14,35 @@ I also work with **Power BI**, **Databricks**, **Snowflake**, and **WhizAI** to 
 ## 🧰 Tech Stack
 
 ```text
-Languages:      Python   
+Data & BI:      Power BI, Databricks,  WhizAI
+Languages:      Python, SQL  
 Libraries:      NumPy, Pandas, Scikit-learn, Matplotlib,  Requests, SQLAlchemy, Paramiko, smtplib  
 Cloud/DevOps:   Microsoft Azure, AWS  
-Databases:      PostgreSQL, Redis, Redshift
-Tools:          Docker, Git,  Postman
+Databases:      Snowflake, Redshift, PostgreSQL, Redis
+Tools:          Docker, Git,  Postman, Airflow, Grafana, Power Automate
 ```
 ---
 ## 🏆 Certifications
-[Certification 1]: Databricks Certified: Data Engineer Associate
+✨ Databricks Certified: Data Engineer Associate
 
-[Certification 2]: Microsoft Certified: Power BI Data Analyst Associate
+✨ Microsoft Certified: Power BI Data Analyst Associate
 
-[Certification 3]: Microsoft Certified: Azure Data Fundamentals
+✨ Microsoft Certified: Azure Data Fundamentals
 
-[Certification 4]: Microsoft Certified: Azure Fundamentals
+✨ Microsoft Certified: Azure Fundamentals
 
-[Certification 5]: Microsoft Certified: Power Platform Fundamentals
+✨ Microsoft Certified: Power Platform Fundamentals
 
-[Certification 6]: NPTEL: Data structure and algorithm using Python
+✨ NPTEL: Data structure and algorithm using Python
 
 ## 📫 Connect With Me
 📧 Email: saurabh.k98@outlook.com
 
-💼 LinkedIn: linkedin.com/in/saurabh-k98
+🔗 LinkedIn: linkedin.com/in/saurabh-k98
 
 ---
 
 <p align="center">
-<sub>Thank you for visiting! I'm available for full-time roles and impactful collaborations.</sub>
+<sub>❤️ Thank you for visiting! I'm available for full-time roles and impactful collaborations.</sub>
 </p>
 
